@@ -64,10 +64,8 @@ mvn test
 2. Navigate to the project directory.
 3. Run the Maven build and test commands.
 
-## License
+## Copyright
 
-This project is licensed under the MIT License.
+The base code for this project was developed as part of a university course at Politecnico di Torino.
 
-## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email].
